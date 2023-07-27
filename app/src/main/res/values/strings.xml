@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Поле чудес</string>
+    <string name="podskazka">Введите слово</string>
+    <string name="podskazka2">Ваше слово</string>
+    <string name="podskazka3">Введите букву</string>
+    <string name="start">Начать игру</string>
+    <string name="restart">Сыграть снова</string>
+    <string name="Vvesti">Ввести</string>
+</resources>
